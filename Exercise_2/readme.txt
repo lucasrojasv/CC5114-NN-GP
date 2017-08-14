@@ -1,4 +1,4 @@
-Exercise 2
+Exercise 2: Perceptron training, Sigmoid, Sigmoid training
 
 https://github.com/lucasrojasv/CC5114-NN-GP/tree/master/Exercise_2
 
